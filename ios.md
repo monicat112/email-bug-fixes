@@ -3,7 +3,7 @@
 * [Stop auto-highlihgting of addresses and phone links](#stop-auto-highlihgting-of-addresses-and-phone-links)
 * [Fix scaling issues](#fix-scaling-issues)
 
-## Stop auto-highlihgting of addresses and phone links
+## Stop auto-highlighting of addresses and phone links
 
 https://litmus.com/blog/update-banning-blue-links-on-ios-devices
 
